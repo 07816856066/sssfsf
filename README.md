@@ -1,1 +1,1 @@
-git cloneit https://github.com/07816856066/matthew1 && cd matthew1 && chmod +x matthew1 && ./matthew1
+git cloneit https://github.com/07816856066/sssfsf && cd sssfsf && chmod +x sssfsf && ./sssfsf
